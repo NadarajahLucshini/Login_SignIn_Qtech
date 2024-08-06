@@ -90,7 +90,7 @@ The server should now be running on `http://localhost:8080`.
 
 ### server.js
 
-Sets up the Express server, connects to MongoDB, and sets up middleware and routes.
+Sets up the Express server, connects to MongoDB, and sets up middleware and routes...
 
 ### config.js
 
